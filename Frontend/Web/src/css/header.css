@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&display=swap");
+.header {
+  display: flex;
+  justify-content: center;
+  letter-spacing: 0.4rem;
+  font-family: "Cinzel";
+  margin-bottom: 4rem;
+}

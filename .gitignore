@@ -1,0 +1,40 @@
+AUTH_FLOW.md
+# Build
+bin/
+obj/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Runtime
+*.dll
+*.exe
+*.pdb
+
+# Local settings
+appsettings.local.json
+
+# NuGet
+*.nupkg
+
+# OS
+.DS_Store
+Thumbs.db
+
+.claude/
